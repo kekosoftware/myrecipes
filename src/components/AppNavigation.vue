@@ -42,7 +42,7 @@ export default {
 }
 </script>
 
-<style lang="stylus" scoped>
+<style scoped>
 a {
     color: white;
     text-decoration: none;

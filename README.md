@@ -1,4 +1,4 @@
-# my-notes
+# My Recipes
 
 ## Project setup
 ```
