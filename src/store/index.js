@@ -20,8 +20,8 @@ export default new Vuex.Store({
                 let response = await axios.get(`${state.apiUrl}`, {
                     params: {
                         q: plan,
-                        app_id: '<yourAppID>',
-                        app_key: '<yourAppKey>',
+                        app_id: '3e747f5f',
+                        app_key: 'd34a0a9717592e9d262a40ec907ee96a',
                         from: 0,
                         to: 9
                     }
